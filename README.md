@@ -8,7 +8,7 @@ The app is composed of two screens. The first screen displays a list of books, i
 
 ![Imgur](http://i.imgur.com/sSINs2zl.png)
 
-**Book Details**
+**Book DetailsAAAAAA**
 
 ![Imgur](http://i.imgur.com/y9a4AtQl.png)
 
