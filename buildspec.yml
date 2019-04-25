@@ -8,4 +8,5 @@ phases:
 artifacts:
   files:
      - '**/*app-debug.apk'
+     - '**/*zip-with-dependencies.zip'
   discard-paths: yes 
